@@ -49,7 +49,7 @@
         "react-svg-loader": "^3.0.3",
         "react-transition-group": "4.4.2",
         "sendbird": "~3.0.137",
-        "glob": "^7.1.5",
+        "glob": "^9.0.0",
         "commander": "^3.0.2"
     },
     "devDependencies": {
